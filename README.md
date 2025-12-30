@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Repon</h1>
-<h3 align="center">I am a Full-Stack Developer specializing in the MERN Stack, currently preparing for a Junior role. I focus on building well-structured backends with Node/Express and creating fluid, motion-rich frontends with Next.js. I am passionate about clean architecture and implementing scroll-driven animations to enhance user storytelling.</h3>
+<h1 >Hi 👋, I'm Repon</h1>
+
+<p>I am a Full-Stack Developer specializing in the **MERN Stack**, currently preparing for a Junior role.</p>
+<p>I focus on building well-structured backends with Node/Express and creating fluid, motion-rich frontends with Next.js. </p>
+<p>I am passionate about clean architecture and implementing scroll-driven animations to enhance user storytelling.</p>
+
 
 - 🔭 I’m currently working on [RideFlow](https://github.com/codeWith-Repon/ride-flow-react)
 
@@ -8,12 +12,6 @@
 - 👨‍💻 All of my projects are available at [portfolio](https://protfoliofrontend-gilt.vercel.app/)
 
 - 📫 How to reach me **repon7253@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-repon-8bb24029b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-repon-8bb24029b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/repon.khan.9083477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/repon.khan.9083477" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -27,4 +25,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
