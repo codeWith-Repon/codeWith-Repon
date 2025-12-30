@@ -1,57 +1,30 @@
-# 👋 I'm Repon | Full-Stack MERN Developer
+<h1 align="center">Hi 👋, I'm Repon</h1>
+<h3 align="center">I am a Full-Stack Developer specializing in the MERN Stack, currently preparing for a Junior role. I focus on building well-structured backends with Node/Express and creating fluid, motion-rich frontends with Next.js. I am passionate about clean architecture and implementing scroll-driven animations to enhance user storytelling.</h3>
 
-I am a Full-Stack Developer specializing in the **MERN Stack**, currently preparing for a Junior role. 
-I focus on building well-structured backends with Node/Express and creating fluid, motion-rich frontends with Next.js. 
-I am passionate about clean architecture and implementing scroll-driven animations to enhance user storytelling.
+- 🔭 I’m currently working on [RideFlow](https://github.com/codeWith-Repon/ride-flow-react)
 
+- 🌱 I’m currently learning **NextJs**
 
----
+- 👨‍💻 All of my projects are available at [portfolio](https://protfoliofrontend-gilt.vercel.app/)
 
-## 🛠️ Core Engineering Stack
+- 📫 How to reach me **repon7253@gmail.com**
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | ReactJs, NextJs, TypeScript, Redux Toolkit, Tailwind CSS, Framer Motion, Gsap |
-| **Backend** | Node.js, Express.js, Zod (Validation) |
-| **Database** | MongoDB, Mongoose, PostgreSQL |
-| **DevOps/Tools** | Git, JWT Auth, Prettier/ESLint |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-repon-8bb24029b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-repon-8bb24029b/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/repon.khan.9083477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/repon.khan.9083477" height="30" width="40" /></a>
+</p>
 
----
-
-## 🧩 Engineering Case Studies
-
-### 🚖 RideFlow – Multi-Role Ride-Sharing Ecosystem
-*A sophisticated ride-management engine featuring complex state-machines for three distinct user lifecycles.*
-
-* **System Architecture:** Implemented **Role-Based Access Control (RBAC)** for Admin, Rider, and Driver dashboards, ensuring strict data isolation.
-* **Security & Integrity:** Integrated JWT-based authentication with **OTP verification** protocols to secure the ride-lifecycle transition.
-* **Modern UX:** Engineered **scroll-driven reveal animations** to guide users through the multi-step booking process, significantly improving user retention.
-* **Stack:** Node.js, MongoDB, Mongoose, Zod, JWT.
-
-[🔗 Live Demo](https://ridebooking-lilac.vercel.app/) | [📁 Source Code](https://github.com/codeWith-Repon/rideflow)
-
----
-
-### 🎉 EventsHub – Event Management Platform
-*A full-stack, type-safe platform for real-time event discovery and lifecycle management.*
-
-* **Technical Highlight:** Transitioned the codebase to **TypeScript** to ensure type safety across the API boundary.
-* **UX Focus:** Developed a responsive UI with **smooth scroll transitions** and micro-interactions to create a premium feel.
-* **Stack:** React, TypeScript, Tailwind, Node.js, MongoDB.
-
-[🔗 Live Demo](https://events-hub-link.vercel.app/) | [📁 Source Code](https://github.com/codeWith-Repon/eventshub)
-
----
-
-## 📈 Technical Philosophy
-* **Clean Code:** I follow SOLID principles to ensure codebases remain maintainable as they scale.
-* **Performance:** Obsessed with Lighthouse scores and minimizing Layout Shift (CLS) during scroll animations.
-* **Growth:** Currently deep-diving into System Design and Backend Microservices.
-
----
-
-### 🌐 Connect With Me
+<h3 align="left">Languages and Tools:</h3>
 <p>
-  <a href="https://linkedin.com/in/md-repon-8bb24029b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/codeWith-Repon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
