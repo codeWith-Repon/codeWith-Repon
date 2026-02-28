@@ -1,34 +1,85 @@
 <p align="center">
   <img src="./Your paragraph text (2).png" alt="Repon's Banner" width="100%">
 </p>
-<h1 >Hi 👋, I'm Repon</h1>
+<h1>Hi 👋, I'm Repon</h1>
 
-<p>I am a Full-Stack Developer specializing in the **MERN Stack**, currently preparing for a Junior role.</p>
-<p>I focus on building well-structured backends with Node/Express and creating fluid, motion-rich frontends with Next.js. </p>
-<p>I am passionate about clean architecture and implementing scroll-driven animations to enhance user storytelling.</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&duration=4000&pause=1000&color=00ADB5&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;Node.js+%26+PostgreSQL+Expert;React+%26+Next.js+Builder)
 
+---
 
-- 🔭 I’m currently working on [RideFlow](https://github.com/codeWith-Repon/ride-flow-react)
-
-- 🌱 I’m currently learning **NextJs**
-
-- 👨‍💻 All of my projects are available at [portfolio](https://protfoliofrontend-gilt.vercel.app/)
-
-- 📫 How to reach me **repon7253@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+Full-Stack Developer specializing in the MERN Stack and modern Next.js architectures, focused on building scalable, secure, and production-ready web applications.
 </p>
+
+<ul>
+  <li>⚡ Backend Development: Node.js, Express.js, REST API design, Authentication & Authorization</li>
+  <li>🗄️ Database Design: MongoDB, PostgreSQL, schema design, query optimization</li>
+  <li>🎨 Frontend Engineering: React.js, Next.js, responsive UI, state management</li>
+  <li>🔐 Security & Performance: JWT auth, role-based access, API optimization</li>
+  <li>🏗️ Architecture: Clean architecture, scalable system design, modular code structure</li>
+</ul>
+
+
+# 📬 Contact Me
+
+- 👨‍💻 Portfolio: https://repon-nine.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/mdrepon/
+- 🐱 GitHub: https://github.com/codeWith-Repon
+- 📫 Email: repon7253@gmail.com
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Development
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,figma,gsap)
+
+![Shadcn](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF6B35?style=for-the-badge&logo=react&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-0080FF?style=for-the-badge&logo=javascript&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK%20Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+---
+
+### ⚙️ Backend Development
+![Backend](https://skillicons.dev/icons?i=nodejs,express,ts,redis,docker,graphql)
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Passport](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9DCE?style=for-the-badge&logo=maildotru&logoColor=white)
+![Arcjet](https://img.shields.io/badge/Arcjet-FF4500?style=for-the-badge&logo=shield&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-FF6600?style=for-the-badge&logo=shopify&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-0080FF?style=for-the-badge&logo=javascript&logoColor=white)
+
+---
+
+### 🗄️ Database & ORM
+![Database](https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis)
+
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+### 🚀 DevOps & Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,vite,docker)
+
+![AI Tools](https://img.shields.io/badge/OpenRouter%20AI-00ADB5?style=for-the-badge&logo=openai&logoColor=white)
+![Arcjet](https://img.shields.io/badge/Arcjet-FF4500?style=for-the-badge&logo=shield&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+---
+
 
 ## 📊 GitHub Stats:
 
