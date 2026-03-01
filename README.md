@@ -103,7 +103,8 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
 </p>
 
 ---
-
+## ⏳ Weekly Coding Metrics
+---
 ## 📊 GitHub Stats:
 
 <div align="center">
