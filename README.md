@@ -112,6 +112,22 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
 </p>
 
 ---
+## 📚 Currently Learning
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+</p>
+
+| 🔧 Technology | 💡 Why |
+|--------------|--------|
+| 🐳 Docker | Containerizing apps for consistent, portable deployments |
+| ☁️ AWS | Scaling and deploying production-grade cloud infrastructure |
+| 🐍 Python | Expanding beyond JavaScript into backend versatility |
+| 🎸 Django | Exploring Python-powered full-stack web development |
+
 ## ⏳ Weekly Coding Metrics
 ---
 ## 📊 GitHub Stats:
