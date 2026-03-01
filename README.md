@@ -21,11 +21,20 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
 
 
 # 📬 Contact Me
-
-- 👨‍💻 Portfolio: https://repon-nine.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/mdrepon/
-- 🐱 GitHub: https://github.com/codeWith-Repon
-- 📫 Email: repon7253@gmail.com
+<p>
+  <a href="https://repon-nine.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mdrepon/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/codeWith-Repon" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:repon7253@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -118,6 +127,7 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
 </div><br>
 
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+
+## 🙏 Thank You
+
+![Thanks Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=30&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+connect+and+build+great+things+🚀;)
