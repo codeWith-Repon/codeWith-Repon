@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Your paragraph text (2).png" alt="Repon's Banner" width="100%">
+  <img src="./ghBanner.png" alt="Repon's Banner" width="100%">
 </p>
 
 <h1>Hi 👋, I'm Repon</h1>
