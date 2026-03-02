@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./Your paragraph text (2).png" alt="Repon's Banner" width="100%">
 </p>
+
 <h1>Hi 👋, I'm Repon</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&duration=4000&pause=1000&color=00ADB5&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;Node.js+%26+PostgreSQL+Expert;React+%26+Next.js+Builder)
@@ -19,8 +20,10 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
   <li>🏗️ Architecture: Clean architecture, scalable system design, modular code structure</li>
 </ul>
 
+---
 
-# 📬 Contact Me
+## 📬 Contact Me
+
 <p>
   <a href="https://repon-nine.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
@@ -35,6 +38,8 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
     <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -112,6 +117,7 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
 </p>
 
 ---
+
 ## 📚 Currently Learning
 
 <p>
@@ -128,21 +134,35 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
 | 🐍 Python | Expanding beyond JavaScript into backend versatility |
 | 🎸 Django | Exploring Python-powered full-stack web development |
 
-## ⏳ Weekly Coding Metrics
 ---
-## 📊 GitHub Stats:
+
+## ⏱️ This Week I Coded
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeWith-Repon&theme=radical">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeWith-Repon&theme=radical" />
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeWith-Repon&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeWith-Repon&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeWith-Repon&theme=radical&utcOffset=8">
+<br/>
 
-</div><br>
+<img width="49%" src="https://streak-stats.demolab.com/?user=codeWith-Repon&theme=radical&hide_border=true" />
 
+<br/>
 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeWith-Repon&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeWith-Repon&theme=radical" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeWith-Repon&theme=radical&utcOffset=6" />
+
+</div>
 
 ## 🙏 Thank You
 
