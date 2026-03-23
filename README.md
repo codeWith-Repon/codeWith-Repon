@@ -182,24 +182,24 @@ Sunday                   554 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               9 hrs 29 mins       ███████████████████░░░░░░   76.55 % 
-JavaScript               1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Bash                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               8 hrs 19 mins       █████████████████████░░░░   83.03 % 
+Bash                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tormynak-Backend         4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.10 % 
-tidi-frontend            3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
-monkeymans-frontend      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-odl frontend             1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-appointment setup        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Tormynak-Backend         4 hrs 43 mins       ████████████░░░░░░░░░░░░░   47.09 % 
+tidi-frontend            3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.97 % 
+appointment setup        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+programming-hero-lv.2-not24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+tidi-backend             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-Windows                  12 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -218,7 +218,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codeWith-Repon/codeWith-Repon/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2026 02:00:23 UTC
+ Last Updated on 23/03/2026 02:02:15 UTC
 <!--END_SECTION:waka-->
 
 ---
