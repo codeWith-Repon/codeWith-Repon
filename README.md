@@ -139,7 +139,7 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
 ## ⏱️ This Week I Coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -158,21 +158,21 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                888 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-🌆 Daytime                1461 commits        ████████░░░░░░░░░░░░░░░░░   32.79 % 
-🌃 Evening                1569 commits        █████████░░░░░░░░░░░░░░░░   35.21 % 
-🌙 Night                  538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+🌞 Morning                888 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+🌆 Daytime                1467 commits        ████████░░░░░░░░░░░░░░░░░   32.88 % 
+🌃 Evening                1569 commits        █████████░░░░░░░░░░░░░░░░   35.16 % 
+🌙 Night                  538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Tuesday                  485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Wednesday                640 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Thursday                 795 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Friday                   703 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Saturday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Sunday                   616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Monday                   594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Tuesday                  485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Wednesday                640 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Thursday                 795 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Friday                   703 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Saturday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Sunday                   622 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 ```
 
 
@@ -182,25 +182,25 @@ Sunday                   616 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               9 hrs 35 mins       ███████████████████░░░░░░   76.58 % 
-JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+TypeScript               11 hrs 8 mins       █████████████████████░░░░   83.93 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 51 mins      ████████████████████████░   94.58 % 
-Trae                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+VS Code                  12 hrs 36 mins      ████████████████████████░   94.89 % 
+Trae                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 🐱‍💻 Projects: 
-project tracker          2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Joshua                   2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-monkeymans-frontend      2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-WAFA                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-odl                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+tidi-frontend            3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+project tracker          3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Joshua                   2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+WAFA                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+odl                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 💻 Operating System: 
-Windows                  12 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -219,7 +219,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codeWith-Repon/codeWith-Repon/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2026 02:09:38 UTC
+ Last Updated on 09/04/2026 02:01:19 UTC
 <!--END_SECTION:waka-->
 
 ---
