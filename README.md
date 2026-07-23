@@ -31,7 +31,7 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
   <a href="https://www.linkedin.com/in/mdrepon/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/codeWith-Repon" target="_blank">
+  <a href="https://github.com/repon001" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="mailto:repon7253@gmail.com" target="_blank">
@@ -215,7 +215,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/codeWith-Repon/codeWith-Repon/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/repon001/repon001/main/assets/bar_graph.png)
 
 
  Last Updated on 15/04/2026 02:13:15 UTC
@@ -227,20 +227,20 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeWith-Repon&theme=radical" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=repon001&theme=radical" />
 
 <br/>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=codeWith-Repon&theme=radical&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=repon001&theme=radical&hide_border=true" />
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeWith-Repon&theme=radical" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeWith-Repon&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=repon001&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=repon001&theme=radical" />
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeWith-Repon&theme=radical&utcOffset=6" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=repon001&theme=radical&utcOffset=6" />
 
 </div>
 
