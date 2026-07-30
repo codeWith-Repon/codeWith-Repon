@@ -222,7 +222,6 @@ CSS                      2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -241,6 +240,10 @@ CSS                      2 repos             █░░░░░░░░░░�
 <br/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=repon001&theme=radical&utcOffset=6" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=repon001&theme=tokyo-night&hide_border=true" />
 
 </div>
 
