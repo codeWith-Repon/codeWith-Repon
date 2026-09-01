@@ -148,48 +148,7 @@ Full-Stack Developer building scalable web &amp; mobile applications with <stron
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-500%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2412 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-🌆 Daytime                3983 commits        ████████░░░░░░░░░░░░░░░░░   32.56 % 
-🌃 Evening                3992 commits        ████████░░░░░░░░░░░░░░░░░   32.63 % 
-🌙 Night                  1846 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 hrs 5 mins (88.74%)
-
-✍️ 3,218 lines written by AI, 144 lines written by hand (95.72% AI-written)
-
-🔤 5,836,212 Input Tokens, 429,381 Output Tokens
-
-💵 $253.07 Estimated AI Cost This Week
-
-🧠 22 AI Sessions, 173 AI Prompts
-
-Opencode-Cli             2,789 lines         ███████████████████░░░░░░   75.58 % 
-Gemini                   430 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Mimo                     377 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Nemotron                 80 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-GLM                      14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.72% of written lines came from AI
-📝 Concise Prompter — average 148 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 8.12% of changed lines were hand-edited
-```
-
-
- Last Updated on 01/09/2026 09:18:53 UTC
 <!--END_SECTION:waka-->
 
 ---
