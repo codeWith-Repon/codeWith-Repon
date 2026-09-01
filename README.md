@@ -146,6 +146,116 @@ Full-Stack Developer building scalable web &amp; mobile applications with <stron
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2022%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-494%20hrs%2049%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 326.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,873 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 47 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2412 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+🌆 Daytime                3982 commits        ████████░░░░░░░░░░░░░░░░░   32.55 % 
+🌃 Evening                3992 commits        ████████░░░░░░░░░░░░░░░░░   32.64 % 
+🌙 Night                  1846 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1832 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Tuesday                  1925 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Wednesday                1772 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Thursday                 1876 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Friday                   1659 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Saturday                 1246 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Sunday                   1922 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+TypeScript               12 hrs 18 mins      █████████████████████░░░░   83.50 % 
+Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 15 mins      █████████████████░░░░░░░░   69.53 % 
+Antigravity IDE          4 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.47 % 
+
+🐱‍💻 Projects: 
+Project-Management-Fronte5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.83 % 
+onetwosixdesign          3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+fk                       1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Project-Management-Backen1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+octopi-web-new           1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+
+💻 Operating System: 
+Windows                  14 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 5 mins (88.74%)
+
+✍️ 3,218 lines written by AI, 144 lines written by hand (95.72% AI-written)
+
+🔤 5,836,212 Input Tokens, 429,381 Output Tokens
+
+💵 $253.07 Estimated AI Cost This Week
+
+🧠 22 AI Sessions, 173 AI Prompts
+
+Opencode-Cli             2,789 lines         ███████████████████░░░░░░   75.58 % 
+Gemini                   430 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Mimo                     377 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Nemotron                 80 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+GLM                      14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.72% of written lines came from AI
+📝 Concise Prompter — average 148 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 8.12% of changed lines were hand-edited
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               44 repos            █████████████░░░░░░░░░░░░   53.01 % 
+JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/repon001/repon001/main/assets/bar_graph.png)
+
+
+ Last Updated on 01/09/2026 09:07:16 UTC
 <!--END_SECTION:waka-->
 
 ---
