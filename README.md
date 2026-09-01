@@ -2,40 +2,75 @@
   <img src="./GhBanner.png" alt="Repon's Banner" width="100%">
 </p>
 
-<h1>Hi 👋, I'm Repon</h1>
+<h1 align="center">Hi 👋, I'm Md. Repon Mia</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&duration=4000&pause=1000&color=00ADB5&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;Node.js+%26+PostgreSQL+Expert;React+%26+Next.js+Builder)
-
----
-
-<p>
-Full-Stack Developer specializing in the MERN Stack and modern Next.js architectures, focused on building scalable, secure, and production-ready web applications.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&duration=3500&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend%3A+Node.js%2C+PostgreSQL+%26+Prisma;Frontend%3A+Next.js%2C+React+%26+React+Native" alt="Typing SVG" />
 </p>
 
-<ul>
-  <li>⚡ Backend Development: Node.js, Express.js, REST API design, Authentication & Authorization</li>
-  <li>🗄️ Database Design: MongoDB, PostgreSQL, schema design, query optimization</li>
-  <li>🎨 Frontend Engineering: React.js, Next.js, responsive UI, state management</li>
-  <li>🔐 Security & Performance: JWT auth, role-based access, API optimization</li>
-  <li>🏗️ Architecture: Clean architecture, scalable system design, modular code structure</li>
-</ul>
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=repon001&color=00ADB5&style=flat-square&label=Profile+Views" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/repon001?label=Followers&style=flat-square&color=00ADB5" />
+  <img alt="Location" src="https://img.shields.io/badge/📍-Dhaka%2C%20Bangladesh-00ADB5?style=flat-square" />
+</p>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADB5&height=2" />
+</p>
 
-## 📬 Contact Me
+<p>
+Full-Stack Developer building scalable web &amp; mobile applications with <strong>React, Next.js, React Native, Node.js, Express, MongoDB, and PostgreSQL</strong>. Specialized in robust backend architecture, REST API design, application security (JWT token rotation, RBAC, CSRF double-submit, rate limiting), database optimization, and end-to-end CRM/AI workflow automation.
+</p>
+
+<table>
+  <tr>
+    <td>⚡ <b>Backend Systems</b></td>
+    <td align="left">Node.js, Express.js, REST API architecture, WebSockets, background jobs</td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>Database Engineering</b></td>
+    <td align="left">PostgreSQL (Prisma), MongoDB (Mongoose), Redis caching &amp; indexing</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Frontend Development</b></td>
+    <td align="left">Next.js (App Router), React.js, TypeScript, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td>📱 <b>Mobile Development</b></td>
+    <td align="left">React Native</td>
+  </tr>
+  <tr>
+    <td>🧠 <b>State &amp; Data Management</b></td>
+    <td align="left">Redux Toolkit, RTK Query, TanStack Query, Zustand</td>
+  </tr>
+  <tr>
+    <td>🔐 <b>Security &amp; Auth</b></td>
+    <td align="left">JWT with refresh token rotation, RBAC, CSRF protection, rate limiting, data encryption</td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Integrations &amp; AI</b></td>
+    <td align="left">Stripe billing &amp; webhooks, GoHighLevel CRM automation, OpenAI / OpenRouter APIs</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADB5&height=2" />
+</p>
+
+## 📬 Connect With Me
 
 <p>
   <a href="https://repon-nine.vercel.app/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mdrepon/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/repon001" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:repon7253@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -43,210 +78,91 @@ Full-Stack Developer specializing in the MERN Stack and modern Next.js architect
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
+### 🎨 Frontend &amp; Mobile
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-FF6B35?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Shadcn/UI" src="https://img.shields.io/badge/-Shadcn%2FUI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
   <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
   <img alt="React Hook Form" src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
   <img alt="Zod" src="https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
-  <img alt="Joi" src="https://img.shields.io/badge/-Joi-0080FF?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
-  <img alt="RTK Query" src="https://img.shields.io/badge/-RTK%20Query-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="NextAuth" src="https://img.shields.io/badge/-NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Clerk" src="https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
----
+### 🧠 State &amp; Data Management
+<p>
+  <img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="RTK Query" src="https://img.shields.io/badge/-RTK%20Query-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-433E38?style=flat-square&logo=react&logoColor=white" />
+</p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend &amp; Security
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img alt="Passport.js" src="https://img.shields.io/badge/-Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white" />
-  <img alt="Arcjet" src="https://img.shields.io/badge/-Arcjet-FF4500?style=flat-square&logo=shield&logoColor=white" />
-  <img alt="Nodemailer" src="https://img.shields.io/badge/-Nodemailer-0F9DCE?style=flat-square&logo=maildotru&logoColor=white" />
-  <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-  <img alt="SSLCommerz" src="https://img.shields.io/badge/-SSLCommerz-FF6600?style=flat-square&logo=shopify&logoColor=white" />
-  <img alt="Joi" src="https://img.shields.io/badge/-Joi-0080FF?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="WebSockets" src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/-JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img alt="Security" src="https://img.shields.io/badge/-CSRF%20%2F%20Rate--Limit-FF4500?style=flat-square&logo=shield&logoColor=white" />
 </p>
 
----
-
-### 🗄️ Database & ORM
+### 🗄️ Database &amp; Caching
 <p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
----
-
-### 🚀 DevOps & Tools
+### 🔌 Third-Party Integrations &amp; DevOps
 <p>
+  <img alt="Stripe" src="https://img.shields.io/badge/-Stripe%20Billing-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img alt="PayPal" src="https://img.shields.io/badge/-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
+  <img alt="SSLCommerz" src="https://img.shields.io/badge/-SSLCommerz-FF6600?style=flat-square&logo=shopify&logoColor=white" />
+  <img alt="GoHighLevel" src="https://img.shields.io/badge/-GoHighLevel%20CRM-00C7B7?style=flat-square&logo=airtable&logoColor=white" />
+  <img alt="OpenAI/OpenRouter" src="https://img.shields.io/badge/-AI%20Integrations-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Nodemailer" src="https://img.shields.io/badge/-Nodemailer-0F9DCE?style=flat-square&logo=maildotru&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="OpenRouter AI" src="https://img.shields.io/badge/-OpenRouter%20AI-00ADB5?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🎓 Certification
 
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-</p>
-
-| 🔧 Technology | 💡 Why |
-|--------------|--------|
-| 🐳 Docker | Containerizing apps for consistent, portable deployments |
-| ☁️ AWS | Scaling and deploying production-grade cloud infrastructure |
-| 🐍 Python | Expanding beyond JavaScript into backend versatility |
-| 🎸 Django | Exploring Python-powered full-stack web development |
+**Complete Web Development Course** — Programming Hero *(Apr 2025 – Dec 2025)*
 
 ---
 
-## ⏱️ This Week I Coded
+## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2052%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 224.8 kB Used in GitHub's Storage 
- > 
-> 🏆 267 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                903 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-🌆 Daytime                1536 commits        ████████░░░░░░░░░░░░░░░░░   33.79 % 
-🌃 Evening                1569 commits        █████████░░░░░░░░░░░░░░░░   34.51 % 
-🌙 Night                  538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Tuesday                  485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Wednesday                640 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 800 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Friday                   718 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Saturday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Sunday                   686 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-TypeScript               15 hrs 42 mins      ██████████████████░░░░░░░   70.21 % 
-JavaScript               6 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Docker                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-🔥 Editors: 
-VS Code                  22 hrs 22 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-odl                      10 hrs 52 mins      ████████████░░░░░░░░░░░░░   48.59 % 
-tidi-frontend            4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-monkeymans-backend       3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-monkeymans-frontend      2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-tidi-backend             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-
-💻 Operating System: 
-Windows                  22 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               26 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
-JavaScript               26 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
-HTML                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/repon001/repon001/main/assets/bar_graph.png)
-
-
- Last Updated on 15/04/2026 02:13:15 UTC
 <!--END_SECTION:waka-->
 
 ---
-## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Analytics
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=repon001&theme=radical" />
 
-<br/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=repon001&theme=radical&hide_border=true" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=repon001&theme=radical" />
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=repon001&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=repon001&theme=radical" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=repon001&theme=radical&utcOffset=6" />
 
-<br/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADB5&height=2" />
+</p>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=repon001&theme=radical" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=repon001&theme=radical" />
 
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=repon001&theme=radical&utcOffset=6" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=repon001&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-## 🙏 Thank You
-
-![Thanks Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=30&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+connect+and+build+great+things+🚀;)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=22&center=true&vCenter=true&width=650&height=50&duration=3000&pause=1200&lines=Open+to+freelance+%26+collab+work+%F0%9F%A4%9D;Building+things+that+scale%2C+one+commit+at+a+time;Let's+turn+coffee+%E2%98%95+into+code+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
